@@ -8,7 +8,7 @@ export default function Home() {
         <img src='https://miro.medium.com/max/800/1*4sxOPaVNwxrfZ9uxVbUaKg.jpeg' alt='redux-toolkit' />
 
         <h4 className="mt-5 text-info">
-            This is the landing page!!!!!!!!!!!!!!
+            Hello...... This is the landing page!!!!!!!!!!!!!!
         </h4>
 
         <p className='text-secondary'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste accusamus distinctio nemo sint asperiores veniam ipsum, soluta amet 
